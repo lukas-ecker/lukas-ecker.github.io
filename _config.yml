@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "picture_ecker_high.jpg"
-  name             : "Dipl.-Ing. Dr.techn. Lukas Ecker BSc"
-  pronouns         : "she/her"  
+  name             : "Lukas Ecker"
+  pronouns         : "Dipl.-Ing. Dr.techn. BSc"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Linz, Austria"
   employer         : "Johannes Kepler University"
