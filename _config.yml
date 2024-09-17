@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "picture_ecker_high.jpg"
   name             : "Dipl.-Ing. Dr.techn. Lukas Ecker BSc"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Linz, Austria"
   employer         : "Johannes Kepler University"
   uri              : # URL
   email            : "lukas.ecker@live.at" 
